@@ -1,0 +1,377 @@
+[06-Jul-2022 14:54:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaNasabah.php:1) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaNasabah.php on line 13
+[06-Jul-2022 14:54:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaNasabah.php:1) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaNasabah.php on line 14
+[06-Jul-2022 14:55:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaNasabah.php:1) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaNasabah.php on line 13
+[06-Jul-2022 14:55:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaNasabah.php:1) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaNasabah.php on line 14
+[06-Jul-2022 14:56:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaPengepul.php:1) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaPengepul.php on line 13
+[06-Jul-2022 14:56:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaPengepul.php:1) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaPengepul.php on line 14
+[06-Jul-2022 15:16:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaNasabah.php:1) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaNasabah.php on line 13
+[06-Jul-2022 15:16:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaNasabah.php:1) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaNasabah.php on line 14
+[06-Jul-2022 15:16:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaNasabah.php:1) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaNasabah.php on line 13
+[06-Jul-2022 15:16:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaNasabah.php:1) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaNasabah.php on line 14
+[06-Jul-2022 15:16:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaNasabah.php:1) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaNasabah.php on line 13
+[06-Jul-2022 15:16:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaNasabah.php:1) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaNasabah.php on line 14
+[14-Jul-2022 11:58:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaPengepul.php:1) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaPengepul.php on line 13
+[14-Jul-2022 11:58:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaPengepul.php:1) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaPengepul.php on line 14
+[14-Jul-2022 11:58:09 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[14-Jul-2022 11:58:09 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaPengepul.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[14-Jul-2022 11:58:12 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[14-Jul-2022 11:58:12 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaPengepul.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[14-Jul-2022 11:58:15 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[14-Jul-2022 11:58:15 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaPengepul.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[14-Jul-2022 11:58:22 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[14-Jul-2022 11:58:22 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaNasabah.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[14-Jul-2022 12:12:59 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[14-Jul-2022 12:12:59 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaNasabah.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[14-Jul-2022 12:13:03 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[14-Jul-2022 12:13:03 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaNasabah.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[14-Jul-2022 12:13:14 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[14-Jul-2022 12:13:14 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaNasabah.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[14-Jul-2022 12:28:55 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[14-Jul-2022 12:28:55 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaNasabah.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[14-Jul-2022 12:28:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaNasabah.php:1) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaNasabah.php on line 13
+[14-Jul-2022 12:28:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaNasabah.php:1) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaNasabah.php on line 14
+[14-Jul-2022 12:29:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaNasabah.php:1) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaNasabah.php on line 13
+[14-Jul-2022 12:29:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaNasabah.php:1) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaNasabah.php on line 14
+[14-Jul-2022 12:43:38 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[14-Jul-2022 12:43:38 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaNasabah.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[14-Jul-2022 12:52:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaNasabah.php:1) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaNasabah.php on line 13
+[14-Jul-2022 12:52:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaNasabah.php:1) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/Excel_HargaNasabah.php on line 14
+[14-Jul-2022 12:55:16 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[14-Jul-2022 12:55:16 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaPengepul.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 06:58:50 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 06:58:50 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaPengepul.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 06:59:00 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 06:59:00 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaNasabah.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 10:12:07 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 10:12:07 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaNasabah.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 10:12:17 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 10:12:17 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaPengepul.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 10:12:31 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 10:12:31 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaPengepul.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 10:13:17 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 10:13:17 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaPengepul.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 10:13:25 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 10:13:25 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaPengepul.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 10:14:00 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 10:14:00 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaPengepul.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 10:15:23 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 10:15:23 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaPengepul.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 10:16:15 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 10:16:15 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaNasabah.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 10:39:35 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 10:39:35 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaNasabah.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 10:40:51 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 10:40:51 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaNasabah.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 10:40:55 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 10:40:55 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaPengepul.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 11:06:14 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 11:06:14 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaNasabah.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 11:08:39 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 11:08:39 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaNasabah.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 11:11:56 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 11:11:56 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaNasabah.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 11:12:12 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 11:12:12 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaNasabah.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 11:12:14 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 11:12:14 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaNasabah.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 11:12:22 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 11:12:22 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaNasabah.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 11:12:29 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 11:12:29 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaNasabah.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 11:14:56 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 11:14:56 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaNasabah.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 11:15:00 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 11:15:00 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaNasabah.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 11:15:07 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 11:15:07 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaNasabah.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 11:15:07 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 11:15:07 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaNasabah.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 11:15:07 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 11:15:07 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaNasabah.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 11:15:07 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 11:15:07 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaNasabah.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 12:07:05 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 12:07:05 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaNasabah.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 12:07:25 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 12:07:25 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaNasabah.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 12:13:23 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 12:13:23 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaNasabah.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 12:22:03 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 12:22:03 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaNasabah.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 12:58:26 UTC] PHP Warning:  Use of undefined constant a - assumed 'a' (this will throw an Error in a future version of PHP) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaTerbaru.php on line 28
+[18-Jul-2022 12:59:50 UTC] PHP Warning:  Use of undefined constant a - assumed 'a' (this will throw an Error in a future version of PHP) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaTerbaru.php on line 28
+[18-Jul-2022 13:00:26 UTC] PHP Warning:  Use of undefined constant a - assumed 'a' (this will throw an Error in a future version of PHP) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaTerbaru.php on line 28
+[18-Jul-2022 13:00:42 UTC] PHP Warning:  Use of undefined constant a - assumed 'a' (this will throw an Error in a future version of PHP) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaTerbaru.php on line 28
+[18-Jul-2022 13:01:17 UTC] PHP Warning:  Use of undefined constant a - assumed 'a' (this will throw an Error in a future version of PHP) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaTerbaru.php on line 28
+[18-Jul-2022 13:01:49 UTC] PHP Warning:  Use of undefined constant a - assumed 'a' (this will throw an Error in a future version of PHP) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaTerbaru.php on line 28
+[18-Jul-2022 13:02:18 UTC] PHP Warning:  Use of undefined constant a - assumed 'a' (this will throw an Error in a future version of PHP) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaTerbaru.php on line 28
+[18-Jul-2022 13:02:43 UTC] PHP Warning:  Use of undefined constant a - assumed 'a' (this will throw an Error in a future version of PHP) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaTerbaru.php on line 28
+[18-Jul-2022 13:03:27 UTC] PHP Warning:  Use of undefined constant a - assumed 'a' (this will throw an Error in a future version of PHP) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaTerbaru.php on line 28
+[18-Jul-2022 13:03:41 UTC] PHP Warning:  Use of undefined constant a - assumed 'a' (this will throw an Error in a future version of PHP) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaTerbaru.php on line 28
+[18-Jul-2022 13:04:13 UTC] PHP Warning:  Use of undefined constant a - assumed 'a' (this will throw an Error in a future version of PHP) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaTerbaru.php on line 28
+[18-Jul-2022 13:04:42 UTC] PHP Warning:  Use of undefined constant a - assumed 'a' (this will throw an Error in a future version of PHP) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaTerbaru.php on line 28
+[18-Jul-2022 13:06:14 UTC] PHP Warning:  Use of undefined constant a - assumed 'a' (this will throw an Error in a future version of PHP) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaTerbaru.php on line 28
+[18-Jul-2022 13:06:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaTerbaru.php on line 46
+[18-Jul-2022 13:06:26 UTC] PHP Warning:  Use of undefined constant a - assumed 'a' (this will throw an Error in a future version of PHP) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaTerbaru.php on line 28
+[18-Jul-2022 13:07:18 UTC] PHP Warning:  Use of undefined constant a - assumed 'a' (this will throw an Error in a future version of PHP) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaTerbaru.php on line 28
+[18-Jul-2022 13:07:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaTerbaru.php on line 46
+[18-Jul-2022 13:07:35 UTC] PHP Warning:  Use of undefined constant a - assumed 'a' (this will throw an Error in a future version of PHP) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaTerbaru.php on line 28
+[18-Jul-2022 13:07:55 UTC] PHP Warning:  Use of undefined constant a - assumed 'a' (this will throw an Error in a future version of PHP) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaTerbaru.php on line 28
+[18-Jul-2022 13:09:36 UTC] PHP Warning:  Use of undefined constant a - assumed 'a' (this will throw an Error in a future version of PHP) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaTerbaru.php on line 28
+[18-Jul-2022 13:10:09 UTC] PHP Warning:  Use of undefined constant a - assumed 'a' (this will throw an Error in a future version of PHP) in /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaTerbaru.php on line 28
+[21-Jul-2022 14:47:13 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[21-Jul-2022 14:47:13 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaPengepul.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[21-Jul-2022 14:47:26 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[21-Jul-2022 14:47:26 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/ExportFile/PDF_HargaPengepul.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271

@@ -1,0 +1,294 @@
+[06-Jul-2022 12:36:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/ublmobil/public_html/BankSampahWeb/setor.php:322
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/setor.php(322): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/setor.php on line 322
+[06-Jul-2022 12:36:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/ublmobil/public_html/BankSampahWeb/setor.php:322
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/setor.php(322): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/setor.php on line 322
+[06-Jul-2022 12:37:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/ublmobil/public_html/BankSampahWeb/setor.php:322
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/setor.php(322): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/setor.php on line 322
+[06-Jul-2022 12:37:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/ublmobil/public_html/BankSampahWeb/get_penabung.php:3
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/get_penabung.php(3): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/get_penabung.php on line 3
+[06-Jul-2022 12:37:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/ublmobil/public_html/BankSampahWeb/setor.php:322
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/setor.php(322): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/setor.php on line 322
+[06-Jul-2022 12:38:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/ublmobil/public_html/BankSampahWeb/setor.php:322
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/setor.php(322): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/setor.php on line 322
+[06-Jul-2022 12:38:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/ublmobil/public_html/BankSampahWeb/get_penabung.php:3
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/get_penabung.php(3): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/get_penabung.php on line 3
+[06-Jul-2022 12:38:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/ublmobil/public_html/BankSampahWeb/get_penabung.php:3
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/get_penabung.php(3): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/get_penabung.php on line 3
+[06-Jul-2022 12:39:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/ublmobil/public_html/BankSampahWeb/get_penabung.php:3
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/get_penabung.php(3): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/get_penabung.php on line 3
+[06-Jul-2022 12:39:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/ublmobil/public_html/BankSampahWeb/get_penabung.php:3
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/get_penabung.php(3): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/get_penabung.php on line 3
+[06-Jul-2022 12:42:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/ublmobil/public_html/BankSampahWeb/setor.php:322
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/setor.php(322): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/setor.php on line 322
+[06-Jul-2022 12:42:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/ublmobil/public_html/BankSampahWeb/setor.php:322
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/setor.php(322): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/setor.php on line 322
+[06-Jul-2022 12:42:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/ublmobil/public_html/BankSampahWeb/get_penabung.php:3
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/get_penabung.php(3): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/get_penabung.php on line 3
+[06-Jul-2022 12:42:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/ublmobil/public_html/BankSampahWeb/get_penabung.php:3
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/get_penabung.php(3): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/get_penabung.php on line 3
+[06-Jul-2022 12:43:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/ublmobil/public_html/BankSampahWeb/setor.php:322
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/setor.php(322): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/setor.php on line 322
+[06-Jul-2022 12:49:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/ublmobil/public_html/BankSampahWeb/setor.php:322
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/setor.php(322): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/setor.php on line 322
+[06-Jul-2022 12:49:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/ublmobil/public_html/BankSampahWeb/setor.php:322
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/setor.php(322): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/setor.php on line 322
+[06-Jul-2022 12:54:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/ublmobil/public_html/BankSampahWeb/setor.php:322
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/setor.php(322): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/setor.php on line 322
+[06-Jul-2022 12:54:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/ublmobil/public_html/BankSampahWeb/get_penabung.php:3
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/get_penabung.php(3): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/get_penabung.php on line 3
+[06-Jul-2022 12:54:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/ublmobil/public_html/BankSampahWeb/setor.php:322
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/setor.php(322): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/setor.php on line 322
+[06-Jul-2022 13:06:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/ublmobil/public_html/BankSampahWeb/setor.php:322
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/setor.php(322): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/setor.php on line 322
+[06-Jul-2022 13:06:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/ublmobil/public_html/BankSampahWeb/get_penabung.php:3
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/get_penabung.php(3): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/get_penabung.php on line 3
+[06-Jul-2022 13:06:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/ublmobil/public_html/BankSampahWeb/setor.php:322
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/setor.php(322): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/setor.php on line 322
+[06-Jul-2022 13:07:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/ublmobil/public_html/BankSampahWeb/setor.php:322
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/setor.php(322): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/setor.php on line 322
+[06-Jul-2022 13:08:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/ublmobil/public_html/BankSampahWeb/setor.php:322
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/setor.php(322): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/setor.php on line 322
+[06-Jul-2022 13:08:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/ublmobil/public_html/BankSampahWeb/get_penabung.php:3
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/get_penabung.php(3): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/get_penabung.php on line 3
+[06-Jul-2022 13:11:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/ublmobil/public_html/BankSampahWeb/setor.php:322
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/setor.php(322): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/setor.php on line 322
+[06-Jul-2022 13:11:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/ublmobil/public_html/BankSampahWeb/setor.php:322
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/setor.php(322): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/setor.php on line 322
+[06-Jul-2022 15:24:37 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/ublmobil/public_html/BankSampahWeb/config.php on line 8
+[07-Jul-2022 13:30:51 UTC] PHP Warning:  include(sidebar_admin.php): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/halaman_admin.php on line 46
+[07-Jul-2022 13:30:51 UTC] PHP Warning:  include(sidebar_admin.php): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/halaman_admin.php on line 46
+[07-Jul-2022 13:30:51 UTC] PHP Warning:  include(): Failed opening 'sidebar_admin.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/ublmobil/public_html/BankSampahWeb/halaman_admin.php on line 46
+[07-Jul-2022 13:30:53 UTC] PHP Warning:  include(sidebar_admin.php): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/halaman_admin.php on line 46
+[07-Jul-2022 13:30:53 UTC] PHP Warning:  include(sidebar_admin.php): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/halaman_admin.php on line 46
+[07-Jul-2022 13:30:53 UTC] PHP Warning:  include(): Failed opening 'sidebar_admin.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/ublmobil/public_html/BankSampahWeb/halaman_admin.php on line 46
+[07-Jul-2022 13:31:05 UTC] PHP Warning:  include(sidebar_admin.php): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/halaman_admin.php on line 46
+[07-Jul-2022 13:31:05 UTC] PHP Warning:  include(sidebar_admin.php): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/halaman_admin.php on line 46
+[07-Jul-2022 13:31:05 UTC] PHP Warning:  include(): Failed opening 'sidebar_admin.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/ublmobil/public_html/BankSampahWeb/halaman_admin.php on line 46
+[07-Jul-2022 13:36:09 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/Admin/topbar_admin.php on line 2
+[07-Jul-2022 13:36:09 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/Admin/topbar_admin.php on line 2
+[07-Jul-2022 13:36:09 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/ublmobil/public_html/BankSampahWeb/Admin/topbar_admin.php on line 2
+[07-Jul-2022 13:36:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ublmobil/public_html/BankSampahWeb/Admin/topbar_admin.php on line 5
+[07-Jul-2022 13:36:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ublmobil/public_html/BankSampahWeb/Admin/topbar_admin.php on line 6
+[07-Jul-2022 13:36:10 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/Admin/topbar_admin.php on line 2
+[07-Jul-2022 13:36:10 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/Admin/topbar_admin.php on line 2
+[07-Jul-2022 13:36:10 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/ublmobil/public_html/BankSampahWeb/Admin/topbar_admin.php on line 2
+[07-Jul-2022 13:36:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ublmobil/public_html/BankSampahWeb/Admin/topbar_admin.php on line 5
+[07-Jul-2022 13:36:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ublmobil/public_html/BankSampahWeb/Admin/topbar_admin.php on line 6
+[07-Jul-2022 13:37:21 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/Admin/topbar_admin.php on line 2
+[07-Jul-2022 13:37:21 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/Admin/topbar_admin.php on line 2
+[07-Jul-2022 13:37:21 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/ublmobil/public_html/BankSampahWeb/Admin/topbar_admin.php on line 2
+[07-Jul-2022 13:37:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ublmobil/public_html/BankSampahWeb/Admin/topbar_admin.php on line 5
+[07-Jul-2022 13:37:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ublmobil/public_html/BankSampahWeb/Admin/topbar_admin.php on line 6
+[07-Jul-2022 13:37:22 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/Admin/topbar_admin.php on line 2
+[07-Jul-2022 13:37:22 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/Admin/topbar_admin.php on line 2
+[07-Jul-2022 13:37:22 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/ublmobil/public_html/BankSampahWeb/Admin/topbar_admin.php on line 2
+[07-Jul-2022 13:37:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ublmobil/public_html/BankSampahWeb/Admin/topbar_admin.php on line 5
+[07-Jul-2022 13:37:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ublmobil/public_html/BankSampahWeb/Admin/topbar_admin.php on line 6
+[07-Jul-2022 13:37:23 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/Admin/topbar_admin.php on line 2
+[07-Jul-2022 13:37:23 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/Admin/topbar_admin.php on line 2
+[07-Jul-2022 13:37:23 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/ublmobil/public_html/BankSampahWeb/Admin/topbar_admin.php on line 2
+[07-Jul-2022 13:37:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ublmobil/public_html/BankSampahWeb/Admin/topbar_admin.php on line 5
+[07-Jul-2022 13:37:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ublmobil/public_html/BankSampahWeb/Admin/topbar_admin.php on line 6
+[07-Jul-2022 13:38:26 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/Admin/topbar_admin.php on line 2
+[07-Jul-2022 13:38:26 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/Admin/topbar_admin.php on line 2
+[07-Jul-2022 13:38:26 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/ublmobil/public_html/BankSampahWeb/Admin/topbar_admin.php on line 2
+[07-Jul-2022 13:38:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ublmobil/public_html/BankSampahWeb/Admin/topbar_admin.php on line 5
+[07-Jul-2022 13:38:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ublmobil/public_html/BankSampahWeb/Admin/topbar_admin.php on line 6
+[08-Jul-2022 06:34:55 UTC] PHP Warning:  A non-numeric value encountered in /home/ublmobil/public_html/BankSampahWeb/proses_setor.php on line 29
+[11-Jul-2022 15:21:42 UTC] PHP Warning:  A non-numeric value encountered in /home/ublmobil/public_html/BankSampahWeb/proses_setor.php on line 29
+[18-Jul-2022 10:18:04 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 10:18:04 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/pdf_harga_nasabah.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 10:24:55 UTC] PHP Warning:  fopen(../assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 10:24:55 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('../assets/img/l...')
+#2 /home/ublmobil/public_html/BankSampahWeb/pdf_harga_nasabah.php(39): FPDF->Image('../assets/img/l...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 10:27:44 UTC] PHP Warning:  fopen(/assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 10:27:44 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: /assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('/assets/img/log...')
+#2 /home/ublmobil/public_html/BankSampahWeb/pdf_harga_nasabah.php(39): FPDF->Image('/assets/img/log...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 10:27:47 UTC] PHP Warning:  fopen(/assets/img/logo.png): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1257
+[18-Jul-2022 10:27:47 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: /assets/img/logo.png in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1259): FPDF->Error('Can't open imag...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsepng('/assets/img/log...')
+#2 /home/ublmobil/public_html/BankSampahWeb/pdf_harga_nasabah.php(39): FPDF->Image('/assets/img/log...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 10:28:21 UTC] PHP Warning:  getimagesize(/assets/img/logo.jpeg): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1238
+[18-Jul-2022 10:28:21 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: /assets/img/logo.jpeg in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1240): FPDF->Error('Missing or inco...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsejpg('/assets/img/log...')
+#2 /home/ublmobil/public_html/BankSampahWeb/pdf_harga_nasabah.php(39): FPDF->Image('/assets/img/log...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 10:30:38 UTC] PHP Warning:  getimagesize(/assets/img/logo.jpeg): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1238
+[18-Jul-2022 10:30:38 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: /assets/img/logo.jpeg in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1240): FPDF->Error('Missing or inco...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsejpg('/assets/img/log...')
+#2 /home/ublmobil/public_html/BankSampahWeb/pdf_harga_nasabah.php(39): FPDF->Image('/assets/img/log...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 10:31:05 UTC] PHP Warning:  getimagesize(/assets/img/logo.jpeg): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1238
+[18-Jul-2022 10:31:05 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: /assets/img/logo.jpeg in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1240): FPDF->Error('Missing or inco...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsejpg('/assets/img/log...')
+#2 /home/ublmobil/public_html/BankSampahWeb/pdf_harga_nasabah.php(39): FPDF->Image('/assets/img/log...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 10:33:11 UTC] PHP Warning:  getimagesize(/assets/img/logo.jpeg): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1238
+[18-Jul-2022 10:33:11 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: /assets/img/logo.jpeg in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1240): FPDF->Error('Missing or inco...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsejpg('/assets/img/log...')
+#2 /home/ublmobil/public_html/BankSampahWeb/pdf_harga_nasabah.php(39): FPDF->Image('/assets/img/log...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 10:37:05 UTC] PHP Warning:  getimagesize(/assets/img/logo.jpeg): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1238
+[18-Jul-2022 10:37:05 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: /assets/img/logo.jpeg in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1240): FPDF->Error('Missing or inco...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsejpg('/assets/img/log...')
+#2 /home/ublmobil/public_html/BankSampahWeb/pdf_harga_nasabah.php(39): FPDF->Image('/assets/img/log...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 10:39:25 UTC] PHP Warning:  getimagesize(/assets/img/logo.jpeg): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1238
+[18-Jul-2022 10:39:25 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: /assets/img/logo.jpeg in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1240): FPDF->Error('Missing or inco...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsejpg('/assets/img/log...')
+#2 /home/ublmobil/public_html/BankSampahWeb/pdf_harga_nasabah.php(39): FPDF->Image('/assets/img/log...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 10:39:28 UTC] PHP Warning:  getimagesize(/assets/img/logo.jpeg): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1238
+[18-Jul-2022 10:39:28 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: /assets/img/logo.jpeg in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1240): FPDF->Error('Missing or inco...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsejpg('/assets/img/log...')
+#2 /home/ublmobil/public_html/BankSampahWeb/pdf_harga_nasabah.php(39): FPDF->Image('/assets/img/log...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[18-Jul-2022 10:40:50 UTC] PHP Warning:  getimagesize(/assets/img/logo.jpeg): failed to open stream: No such file or directory in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 1238
+[18-Jul-2022 10:40:50 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: /assets/img/logo.jpeg in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php:271
+Stack trace:
+#0 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(1240): FPDF->Error('Missing or inco...')
+#1 /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php(885): FPDF->_parsejpg('/assets/img/log...')
+#2 /home/ublmobil/public_html/BankSampahWeb/pdf_harga_nasabah.php(39): FPDF->Image('/assets/img/log...', 45, 5, 30)
+#3 {main}
+  thrown in /home/ublmobil/public_html/BankSampahWeb/libs/fpdf.php on line 271
+[23-Jul-2022 00:09:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ublmobil/public_html/BankSampahWeb/info_penabung.php on line 281
+[23-Jul-2022 00:09:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ublmobil/public_html/BankSampahWeb/info_penabung.php on line 281
+[23-Jul-2022 00:09:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ublmobil/public_html/BankSampahWeb/info_penabung.php on line 281
+[23-Jul-2022 00:09:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ublmobil/public_html/BankSampahWeb/info_penabung.php on line 281
+[23-Jul-2022 00:09:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ublmobil/public_html/BankSampahWeb/info_penabung.php on line 226
+[23-Jul-2022 00:10:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ublmobil/public_html/BankSampahWeb/info_penabung.php on line 226
+[23-Jul-2022 00:10:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ublmobil/public_html/BankSampahWeb/info_penabung.php on line 281
+[23-Jul-2022 00:32:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ublmobil/public_html/BankSampahWeb/filter_infopenabung.php on line 10
+[23-Jul-2022 00:33:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ublmobil/public_html/BankSampahWeb/filter_infopenabung.php on line 10
+[23-Jul-2022 00:35:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ublmobil/public_html/BankSampahWeb/filter_infopenabung.php on line 10
+[23-Jul-2022 00:38:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ublmobil/public_html/BankSampahWeb/filter_infopenabung.php on line 10
+[23-Jul-2022 00:40:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ublmobil/public_html/BankSampahWeb/filter_infopenabung.php on line 10
+[23-Jul-2022 01:15:39 UTC] PHP Warning:  A non-numeric value encountered in /home/ublmobil/public_html/BankSampahWeb/proses-validasipengajuan.php on line 28
+[23-Jul-2022 01:23:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/ublmobil/public_html/BankSampahWeb/validasi_hasil.php on line 70
+[23-Jul-2022 01:23:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/ublmobil/public_html/BankSampahWeb/validasi_hasil.php on line 70
+[23-Jul-2022 04:07:45 UTC] PHP Warning:  A non-numeric value encountered in /home/ublmobil/public_html/BankSampahWeb/proses_setor.php on line 29
